@@ -34,7 +34,7 @@ This Power BI report analyzes sales performance for a Amazon company in the Unit
 
 - Sales YTD, YoY% 
 
-## 📐 Data Model Overview
+##  Data Model Overview
 
 Star schema with:
 - `SalesFact` (fact table)
