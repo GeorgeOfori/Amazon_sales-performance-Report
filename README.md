@@ -39,3 +39,10 @@ This Power BI report analyzes sales performance for a Amazon company in the Unit
 Star schema with:
 - `SalesFact` (fact table)
 - `Date`, `Product`, `Customer` (dimension tables)
+
+## Tools used:
+- Power BI
+- DAX for custom KPIs
+- Power Query for transformation
+
+
